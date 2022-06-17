@@ -1,0 +1,84 @@
+id: IA5B7163A
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T13:06:16.968475'
+last_modified: '2022-06-17T13:06:16.968480'
+parser: null
+source_metadata:
+  title: Middle Way Series
+  language: fr
+  description: 'The following texts are available as part of our series on the Middle
+    Way (Madhyamaka/Mādhyamika; dbu ma) philosophy:'
+  volume:
+    f6118:
+      title: Conveying the Essence of the Middle Way of Consequence
+      base_file: f6118.txt
+      order: 1
+      parent: General
+    f1307:
+      title: 'The Words of Candra: The Definitive Secret of the Great Middle Way of
+        Consequence Beyond Extremes, the Fundamental Intent of All the Tathāgatas'
+      base_file: f1307.txt
+      order: 2
+      parent: General
+    fEFDE:
+      title: 'The Seed of Reasoning: Notes on the Five Great Logical Arguments of
+        the Middle Way'
+      base_file: fEFDE.txt
+      order: 3
+      parent: General
+    f48E0:
+      title: A Step-by-Step Meditation on the Definitive Meaning of the Great Middle
+        Way
+      base_file: f48E0.txt
+      order: 4
+      parent: General
+    f54DE:
+      title: 'Gateway to Learning: Four Great Logical Arguments of the Middle Way'
+      base_file: f54DE.txt
+      order: 5
+      parent: General
+    f1899:
+      title: Profound Instruction on the View of the Middle Way
+      base_file: f1899.txt
+      order: 6
+      parent: General
+    f0149:
+      title: 'Clarifying the Essence: A Summary of the Instructions on the View of
+        the Middle Way'
+      base_file: f0149.txt
+      order: 7
+      parent: General
+    fCB7E:
+      title: Commentary on the Madhyamakāvatāra—Part 1—Collection of Reasoning
+      base_file: fCB7E.txt
+      order: 8
+      parent: Madhyamakāvatāra
+    f1018:
+      title: Commentary on the Madhyamakāvatāra—Part 2—Title and Translators Homage
+      base_file: f1018.txt
+      order: 9
+      parent: Madhyamakāvatāra
+    fB354:
+      title: Prologue to Introduction to the Middle Way (Madhyamakāvatāra)
+      base_file: fB354.txt
+      order: 10
+      parent: Madhyamakāvatāra
+    f899A:
+      title: Concise Middle Way Aspiration
+      base_file: f899A.txt
+      order: 11
+      parent: Prayers
+    f8F69:
+      title: Middle Way Aspiration
+      base_file: f8F69.txt
+      order: 12
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
